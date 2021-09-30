@@ -1,17 +1,23 @@
-# title 
+# Heuristic Analysis of Washington State's Government Websites 
 
 ## Matthew Tran, DH110 F21 
 
-### assignment01: Heuristic Evaluation of Arizona 
+### assignment01: Heuristic Evaluation 
 
 
 ---
 
-purpose of the assignment 
+This assignment details a heuristic analysis of websites for Washington state's government for Education and Transportation. 
+Namely, Nielson's 10 heuristics will be used in evaluating these sites. 
 
 ---
 
-https://access.wa.gov/
+1. Washington State Board of Education 
+
+https://www.sbe.wa.gov/
+
+
+
 
 ![Website of Washington Government](WashingtonGovSite.png)
 
