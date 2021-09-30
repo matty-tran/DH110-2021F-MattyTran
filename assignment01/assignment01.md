@@ -16,10 +16,8 @@ Namely, Nielson's 10 heuristics will be used in evaluating these sites.
 
 https://www.sbe.wa.gov/
 
+![Website of Washington State's Board of Education Website] (washingtonStateBoE.png) 
 
-
-
-![Website of Washington Government](WashingtonGovSite.png)
 
 
 
