@@ -43,7 +43,7 @@
 
 4. Video recording of the participant's screen during testing can be found [here.](https://drive.google.com/file/d/13MR4fiUE4sk1_93TbzmheGj7fFqORLEX/view?usp=sharing) 
 
-5. A transcript of the interview can be found [here.]()  
+5. A transcript of the interview can be found [here.](https://docs.google.com/document/d/1nEAn8KNXd5HLlsfUstVwHxPZNkNmFG06zxsK0YNAoS0/edit?usp=sharing)  
 
 6. A copy of the script that was used during the interview can be found [here.](https://docs.google.com/document/d/1Tzme49DCZn58Yh-dkl5unq58IvP6xLb0wM4qzqJWkUI/edit?usp=sharing)
 
