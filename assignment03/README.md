@@ -37,13 +37,17 @@
 
 1. The interview was conducted on October 18th, 2021 at 5:30 p.m. at the experimenter's apartment. The subject was Sophia Rose, a 4th year psychology student at UCLA. She grew up in Seattle and lives there when she is not in LA. 
 
-2. Notes taken from the interview can be found [here](https://docs.google.com/document/d/15FuBukoJ269Nnp0E_Y_fu3FpI_dpfJMaSa4fQ5yvJk0/edit?usp=sharing)
+2. Notes taken from the interview can be found [here.](https://docs.google.com/document/d/15FuBukoJ269Nnp0E_Y_fu3FpI_dpfJMaSa4fQ5yvJk0/edit?usp=sharing)
 
-3. Video of the participant during the interview can be found [here]() 
+3. Video of the participant during the interview can be found [here.](https://drive.google.com/file/d/1gsYKVM0pXmEi1FVY0pJQxSYlcc9iLUiP/view?usp=sharing) 
 
-4. Video recording of the participant's screen during testing can be found [here]() 
+4. Video recording of the participant's screen during testing can be found [here.](https://drive.google.com/file/d/13MR4fiUE4sk1_93TbzmheGj7fFqORLEX/view?usp=sharing) 
+
+5. A transcript of the interview can be found [here.]()  
+
+6. A copy of the script that was used during the interview can be found [here.](https://docs.google.com/document/d/1Tzme49DCZn58Yh-dkl5unq58IvP6xLb0wM4qzqJWkUI/edit?usp=sharing)
 
 ## Reflection 
 
-After conducting the interview I gained insight as to how the public transportation system functions in the King County area of Washington, as well as how someone who uses this system of transportation looks for information. I learned that many users of public transportation have to combine information from multiple sites because individually they do not give the user enough information. Namely, Apple maps is used widely when trying to find the specific route to take when planning a path that uses public transportation. However, the application is somewhat limited in few ways. Firstly, the app only gives times that are in the near future, so it is not as helpful when planning a trip in advance. Additionally, the app does not display the cost of the trip very clearly which would be helpful, as many forms of transportation such as the bus require exact change. 
+After conducting the interview I gained insight as to how the public transportation system functions in the King County area of Washington, as well as how someone who uses this system of transportation looks for information. I learned that many users of public transportation have to combine information from multiple sites because individually they do not give the user enough information. Namely, Apple maps is used widely when trying to find the specific route to take when planning a path that uses public transportation. However, the application is somewhat limited in few ways. Firstly, the app only gives times that are in the near future, so it is not as helpful when planning a trip in advance. Additionally, the app does not display the cost of the trip very clearly which would be helpful, as many forms of transportation such as the bus require exact change. The other website that users mainly use is the King County website which is something that I expected to see. I think that there is a lot of room for both of these products to be consolidated or improved in a way that will benefit the user. From my subject's responses to the way they search for information in general, I was able to see that their background affects the way that they want to access information, for example their work. 
 
