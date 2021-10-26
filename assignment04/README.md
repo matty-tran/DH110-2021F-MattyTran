@@ -23,3 +23,23 @@ To solve this, payment can be integrated into the one item that users always hav
 ![Empathy Map for Shoto](shotoEmpathyMap.png) 
 
 ### 2. Shota Aizawa - stern and impatient professor 
+
+![Persona for Shota Aizawa](aizawaPersona.png)
+
+![Empathy Map for Aizawa](aizawaEmpathyMap.png)
+
+## Scenarios and Journey Maps 
+
+### 1. Shoto's Scenario and Journey Map
+
+Shoto recently moved to Seattle for university. He has only been in the city for a few weeks, so he is not very familiar with the transit system yet, so he has to look up every route whenever he wants to go somewhere. Next weekend is parents' weekend, so his family will be coming from out of town to visit him. He wants to plan a whole weekend of festivities, and wants to make sure that he has the routes all planned out so he can show his family how adjusted he is to the city and so that they can have a good time. 
+After making a list of all the places he wants to take his family, Shoto sits down and opens up the maps app on his phone. He enters the date and time of when he wants to go to each destination. After plotting the route, Shoto saves the route, which the app organizes for him as his "upcoming trips." 
+
+
+
+### 2. Aizawa's Scenario and Journey Map
+
+As a computer science professor, Aizawa is always thinking of how technology can improve his life. He has come to hate paper currency, because he thinks that it is something that can be easily replaced by digital currency. He is specifically reminded of this every time he takes the bus, and forgets to bring exact change. He curses the bus driver and huffs off the bus. 
+After setting up his mobile wallet, Aizawa triumphantly leaves his apartment carrying only his phone. He gets on the bus, and with a simple tap, he has paid his bus fare. He sits down contentedly, thinking about what other things he could pay with using his phone... 
+
+
