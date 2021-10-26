@@ -44,3 +44,7 @@ As a computer science professor, Aizawa is always thinking of how technology can
 After setting up his mobile wallet, Aizawa triumphantly leaves his apartment carrying only his phone. He gets on the bus, and with a simple tap, he has paid his bus fare. He sits down contentedly, thinking about what other things he could pay with using his phone... 
 
 ![Aizawa Journey Map](aizawaJourneyMap.png)
+
+## Reflection 
+
+When I was creating my persona, I tried to think of the kinds of people who would use the product the most. I think the part that I struggled most with was the empathy maps, because that was really where I had to force myself to try and think like the persona that I was creating. In the future, I think that I would want to have more diversity between the personas that I created, for example perhaps making a female persona or someone who is very old. 
