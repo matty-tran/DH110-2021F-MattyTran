@@ -16,4 +16,10 @@ To solve this, payment can be integrated into the one item that users always hav
 
 ## Personas 
 
-### 1. 
+### 1. Todoroki Shoto - environmentally conscious college freshman 
+
+![Persona for Todoroki Shoto](shotoPersona.png) 
+
+![Empathy Map for Shoto](shotoEmpathyMap.png) 
+
+### 2. Shota Aizawa - stern and impatient professor 
