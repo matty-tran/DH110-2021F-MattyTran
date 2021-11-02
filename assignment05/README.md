@@ -49,3 +49,6 @@ The flow for product 2 follows the user being able to select their cards to pay 
 
 The user was asked to complete two tasks. The first task (in red) was to pay for their transit fare using the mobile wallet. The second task (in green) was to add funds to their cards. Notably, the user did not select the "pay" button when completing the first task. It was explained that the user was confused about the difference between the "pay" and "cards" buttons on the welcome screen, and expressed that the labels could be changed or only one button was needed in their opinion. 
 
+## Reflection 
+
+I enjoyed working with low-fidelity prototypes because it gave me the chance to materialize the ideas for the products that the user requested. I found that creating the flow of the wireframes helped me to create more well-informed wireframes because it forced me to consider the different actions that a user would take when using the product. One of the most important parts of the process was getting feed back from the users, because they provided insight that I would not have thought about on my own, especially because I am not the one that will be using the product. 
