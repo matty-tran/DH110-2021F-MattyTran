@@ -14,4 +14,6 @@ The interface design was modeled after Apple's wallet feature, primarily the wal
 
 The wireflows/ low-fidelity prototype off of which this user interface is based can be found [here.](https://github.com/matty-tran/DH110-2021F-MattyTran/blob/main/assignment05/README.md)
 
-N.B. only the mobile wallet user interface is 
+N.B. only the mobile wallet user interface is detailed below, however, the map planner from the wireframes is not. 
+
+
