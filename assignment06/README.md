@@ -43,4 +43,9 @@ To make the system's design consistent, I chose to use a roundness factor of 10 
 
 ### 3. Accessibility 
 
-Creating a system that was accessible visual was important to me, and something that I spent a lot of time developing. In many cases, it heavily affected the final design of the interface. In all instances of text appearing, I made sure to test the contrast with its backgroun using the Stark plug-in in Figma. As mentioned above, I en
+Creating a system that was accessible visual was important to me, and something that I spent a lot of time developing. In many cases, it heavily affected the final design of the interface. In all instances of text appearing, I made sure to test the contrast with its backgroun using the Stark plug-in in Figma. As mentioned above, I encountered many cases of insufficient contrast when I had used orange as my primary color. Once I switched to a monochromatic color scheme, I was able to create sufficient contrast between the text and background. 
+
+![my Wallet snippet](myWallet.png)
+![my Wallet contrast test](myWalletContrastTest.png)
+
+
