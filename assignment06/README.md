@@ -68,3 +68,7 @@ Creating a system that was accessible visual was important to me, and something 
 A raw video of the user's first impression can be found [here.](https://drive.google.com/file/d/17OeWd2s-ulE3Ta7c6qMhfX6eC8sdlGN0/view?usp=sharing)
 
 The user commented that the interface looked fitting of a mobile wallet application, and that the mostly monochramatic color scheme helped to make the elements in the focus color stand out. This was reassuring to hear because it was exactly what I had intended when designing the system! 
+
+## Conclusion 
+
+Throughout creating the user interface I learned a lot about what entail good design. Initially, I created something that was based off of my own aesthetic preferences, but upon trying to create something that it accessible, many of these principles informed the design decisions that I made. I think that overall, in creating something that is visually accessible, I also created something that was visually appealing. 
