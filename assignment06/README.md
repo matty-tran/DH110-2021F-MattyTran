@@ -10,6 +10,10 @@ One of the major considerations while creating the user interface was accessibil
 
 The interface design was modeled after Apple's wallet feature, primarily the wallet home page, as eventually I hope this feature would be integrated into existing mobile wallet applications. I wanted to keep the color scheme mostly minimal for accessibility purposes, but also because to make the focus colors stand out more, especially where they are used for buttons and icons. 
 
+I used Figma to create the iterface, as this is a tool with which I have been getting comfortable using throughout the quarter, and there are helpful plug-ins available, such as ones to check contrast levels. 
+
+The full user interface system can be accessed [here.](https://www.figma.com/file/ElWiKKAS014nyMBAoNTRj0/User-Interface)
+
 ## Wireflow 
 
 The wireflows/ low-fidelity prototype off of which this user interface is based can be found [here.](https://github.com/matty-tran/DH110-2021F-MattyTran/blob/main/assignment05/README.md)
@@ -48,4 +52,19 @@ Creating a system that was accessible visual was important to me, and something 
 ![my Wallet snippet](myWallet.png)
 ![my Wallet contrast test](myWalletContrastTest.png)
 
+![orca Card snippet](orcaCardSnippet.png)
+![orca Card contrast test](orcaCardContrastTest.png)
 
+![recent Transactions snippet](recentTransactions.png)
+![recent transactions contrast test](recentTransactionsContrastTest1.png)
+![recent transactions contrast test 2](recentTransactionsContrastTest2.png)
+
+![orange button snippet](orangeButton.png)
+![orange button contrast test](orangeButtonContrastTest.png)
+
+
+### 4. User Impression 
+
+A raw video of the user's first impression can be found [here.](https://drive.google.com/file/d/17OeWd2s-ulE3Ta7c6qMhfX6eC8sdlGN0/view?usp=sharing)
+
+The user commented that the interface looked fitting of a mobile wallet application, and that the mostly monochramatic color scheme helped to make the elements in the focus color stand out. This was reassuring to hear because it was exactly what I had intended when designing the system! 
