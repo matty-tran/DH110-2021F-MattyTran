@@ -16,4 +16,7 @@ The wireflows/ low-fidelity prototype off of which this user interface is based 
 
 N.B. only the mobile wallet user interface is detailed below, however, the map planner from the wireframes is not. 
 
+## Design 
+
+### 1. Design System 
 
