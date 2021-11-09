@@ -33,9 +33,8 @@ The first step that I took when I created the user interface was to create a gri
 
 ### 2. System Design 
 
-![system Design for the user interface](systemDesign.png)
+![system Design for the user interface](designSystem.png)
 
 When choosing the typography for my interface, I intially experimented with using different fonts for the header and body text. I was not able to find two fonts that I liked and felt harmonious, so I instead chose to convey the variation by making sure that the sizing was very distinct. I chose to make the body text 24pt because I thought that it looked best with the screen size I was using, and I made the header 48pt which is twice as large as the body text. Although I did not include any subtext or captions in my interface, I included it so that it could be referenced for future use. 
 
-
-
+For color scheme, I was very tempted at the beginning to make a colorful palette to use, and intially made an interface that had orange as the primary colors. I quickly realized though that it made the interface feel very overwhelming, and made it more difficult to apply accessible design and make certain features of the interface pop to the user. Instead, I made the two primary colors I had before into the focus colors of my new color scheme, and then changing the prinary and secondary colors to a more monochromatic scheme. This had the effects of making buttons, and anything that used the focus colors pop much more to the user, and made creating the distinct light and dark modes much more seamless. 
