@@ -1,5 +1,7 @@
 # assignment07: High Fidelity Prototype 
 
+![High Fidelity Prototype](hfPrototype.png)
+
 ## About the Prototype 
 
 The purpose of the high fidelity prototype is to closely simulate the user's experience interacting with a product, by creating a product that close to its final stage. To achieve this, I used Figma's prototyping tools to create an interactive flow of my user interface. 
