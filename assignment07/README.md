@@ -35,7 +35,7 @@ Upon further discussion with the user, they expressed that they thought that one
 
 The following is a wireframe for a possible application design based off the user's input: 
 
-[Orca Card app wireframe](orcaCardApp.png)
+![Orca Card app wireframe](orcaCardApp.png)
 
 ## Reflection 
 
