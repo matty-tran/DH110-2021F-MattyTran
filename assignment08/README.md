@@ -36,6 +36,14 @@ Impressions and testing of the product can be found here:
 
 [Test 2](https://github.com/matty-tran/DH110-2021F-MattyTran/tree/main/assignment07)
 
+## Pitch Video 
 
+## Conclusion 
+
+Over this course I learned a lot about what goes into creating a product, and my perspective on the field of UX has definitely been broadened. As someone who was initially more interested in the design parts of UX, it was very cool to learn about research and how the information we gather during this part of a project contributes to and informs many of the choices we make in the design process. 
+
+Additionally, I found it very helpful to learn about design heuristics and standards for accessibility. Initially, I would make many of my design choices based off my own artistic instincts, but having something more concrete to guide the development of my product was very helpful. 
+
+The biggest part of UX that I will take with me is the interative process. Throughout the entire lifetime of this project, there has been constant modifications and changes made. This taught me the importance of getting feedback from multiple sources and from multiple perspectives. I think with every interation the product improves in some way and I as a designer learn more, so this is a process that I have definitely grown to appreciate. 
 
 
