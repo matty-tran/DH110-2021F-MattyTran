@@ -20,3 +20,16 @@ I focused on Washington State's governmental website for the [Department of Tran
 
 Using personas, scenarios, and empathy maps, we can take a step back from our position as a designer and try and understand the needs of our users. Doing so can allow us to remove any of the biases that we already have or developed during interviews or research. The main themes that came up across my personas and tasks was that users are concerned with environmentalism and convenience. As a group of people that takes public transportation regularly, users would prefer not to waste resources on constantly printing out transportation tickets. Additionally, people who are on a schedule to catch their public transportation may often be in a rush and forget their transportation card, in which case a digitized version would be very convenient for them. I kept these two ideas in mind when creating my product. [Read more...](https://github.com/matty-tran/DH110-2021F-MattyTran/tree/main/assignment04)
 
+## Wireframing/ Low-Fidelity Prototype  
+
+The product that I decided to develop for my users was a mobile wallet app that removes the need for users to carry around papaer tickets or their physical Orca Card. Instead, the card is linked to their mobile wallet, where the user can manage their funds and pay for their fare using tap-to-pay. The main functionality that I wanted to include in the app was: adding a card, adding money to their card, viewing transactions, and of course paying. The [wireframes](https://github.com/matty-tran/DH110-2021F-MattyTran/tree/main/assignment05) allow us to create a low-cost representation of what the product will be. In this stage, I think that it is most important to have a general sense of the flow of the app and a rough layout of the pages. 
+
+## High-Fidelity Prototype 
+
+After planning my product with wireframing and the low-fidelity prototype, I used Figma to create a [high-fidelity prototype](https://github.com/matty-tran/DH110-2021F-MattyTran/tree/main/assignment07) that was interactive. This step is very important because it gives us a strong sense of the product that the user will be directly using. Creating the interactive prototype is helpful because it helps us to account for all the possible pathways that a user may take and helps to avoid dead-ends. When creating the color scheme for my application, I chose a mostly monochromatic scheme that could be easily translated to light and dark modes. For the focus colors, I chose to use orange and blue because I thought they would be most friendly to color-blind users. Because of the monochromatic scheme, the contrast and readability of text passed [accessibility testing.](https://github.com/matty-tran/DH110-2021F-MattyTran/tree/main/assignment06)
+
+[Interactive Prototype](https://www.figma.com/proto/ElWiKKAS014nyMBAoNTRj0/User-Interface?node-id=2%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A3&show-proto-sidebar=1)
+
+
+
+
