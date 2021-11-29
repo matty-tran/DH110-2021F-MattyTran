@@ -30,6 +30,12 @@ After planning my product with wireframing and the low-fidelity prototype, I use
 
 [Interactive Prototype](https://www.figma.com/proto/ElWiKKAS014nyMBAoNTRj0/User-Interface?node-id=2%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A3&show-proto-sidebar=1)
 
+Impressions and testing of the product can be found here: 
+
+[Test 1](https://github.com/matty-tran/DH110-2021F-MattyTran/tree/main/assignment06)
+
+[Test 2](https://github.com/matty-tran/DH110-2021F-MattyTran/tree/main/assignment07)
+
 
 
 
