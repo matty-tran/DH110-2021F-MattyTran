@@ -52,6 +52,8 @@ Impressions and testing of the product can be found here:
 
 ## Pitch Video 
 
+The recorded video of my pitch can be viewed [here.](https://youtu.be/f76in3CD-Aw) 
+
 ## Conclusion 
 
 Over this course I learned a lot about what goes into creating a product, and my perspective on the field of UX has definitely been broadened. As someone who was initially more interested in the design parts of UX, it was very cool to learn about research and how the information we gather during this part of a project contributes to and informs many of the choices we make in the design process. 
