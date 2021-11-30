@@ -30,6 +30,8 @@ Using personas, scenarios, and empathy maps, we can take a step back from our po
 
 ## Wireframing/ Low-Fidelity Prototype  
 
+![Initial Sketches](wireframesSketch.png)
+
 ![Wireframing with Flow](product2Flow.png)
 
 The product that I decided to develop for my users was a mobile wallet app that removes the need for users to carry around papaer tickets or their physical Orca Card. Instead, the card is linked to their mobile wallet, where the user can manage their funds and pay for their fare using tap-to-pay. The main functionality that I wanted to include in the app was: adding a card, adding money to their card, viewing transactions, and of course paying. The [wireframes](https://github.com/matty-tran/DH110-2021F-MattyTran/tree/main/assignment05) allow us to create a low-cost representation of what the product will be. In this stage, I think that it is most important to have a general sense of the flow of the app and a rough layout of the pages. 
